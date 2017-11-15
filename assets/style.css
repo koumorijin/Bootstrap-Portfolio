@@ -1,0 +1,42 @@
+.pageLinks {
+    float: right;
+}
+.bond {
+    margin-left: 10%;
+} 
+.aboutMeText {
+    text-align: center;
+    margin-left: 5%;
+}
+.aboutMeHeader {
+    margin-left: 10rem;
+}
+hr.main {
+    margin-left: 10rem;
+    margin-right: 10rem;
+}
+/* .sidebar {
+    border-width: 1px;
+    border-color: #000000;
+    border-style: solid;
+} */
+hr.sidebar {
+    width: 75%;
+}
+.connectWithMe {
+    text-align: center;
+    font-size: 24px;
+}
+.logos {
+    margin-left: 13%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+.logo {
+    max-width: 100px;
+    max-height: 100px;
+}
+.portfolioImages {
+    max-width: 200px;
+    max-height: 200px;
+}

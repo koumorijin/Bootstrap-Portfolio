@@ -1,0 +1,486 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"thi",
+				"thirdFunction"
+			],
+			[
+				"driv",
+				"driveAroundWorld"
+			],
+			[
+				"get",
+				"getTuneUp"
+			],
+			[
+				"dr",
+				"driveAroundWorld"
+			],
+			[
+				"key",
+				"keyboardEvent"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"vo",
+				"vowelChecker"
+			],
+			[
+				"type",
+				"typeOf"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"col-",
+				"col-11"
+			],
+			[
+				"col",
+				"col-6"
+			],
+			[
+				"image",
+				"imageText"
+			],
+			[
+				"inl",
+				"inline-grid"
+			],
+			[
+				"t",
+				"table"
+			],
+			[
+				"g",
+				"grid"
+			],
+			[
+				"f",
+				"flex"
+			],
+			[
+				"i",
+				"inline-flex"
+			],
+			[
+				"han",
+				"hangmanText"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"bor",
+				"border-style"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"bot",
+				"border-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"left-",
+				"border-left-width"
+			],
+			[
+				"hi",
+				"height\tAttr"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"bo",
+				"border-width"
+			],
+			[
+				"bord",
+				"border-color"
+			],
+			[
+				"o",
+				"ol\tTag"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"anim",
+				"animate\t.animate()"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"stl",
+				"style"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"text-dec",
+				"text-decoration-color"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"boo",
+				"booFacts"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "lo",
+		"selected_items":
+		[
+			[
+				"lo",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"packages",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"upg",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 296.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/spenceressey/Desktop/Basic-Portfolio/assets/css/floats.html",
+		"/Users/spenceressey/Desktop/Basic-Portfolio/assets/css/positioning.html",
+		"/Users/spenceressey/Desktop/Basic-Portfolio/assets/css/floats.css",
+		"/Users/spenceressey/Desktop/Basic-Portfolio/assets/css/positioning.css",
+		"/Users/spenceressey/Desktop/Basic-Portfolio/assets/css/reset.css",
+		"/Users/spenceressey/Desktop/second-day-stuff/week1-day2-html-css/index.html",
+		"/Users/spenceressey/Desktop/second-day-stuff/week1-day2-html-css/css/style.css",
+		"/Users/spenceressey/Desktop/second-day-stuff/task2/index.html",
+		"/Users/spenceressey/Desktop/second-day-stuff/task2/style.css",
+		"/Users/spenceressey/Downloads/Broken_and_Working_Code/WorkingCode/GrumpyCat.html",
+		"/Users/spenceressey/Downloads/Broken_and_Working_Code/WorkingCode/logic.js",
+		"/Users/spenceressey/Downloads/Broken_and_Working_Code/Assignment10/javascript.js",
+		"/Users/spenceressey/Downloads/Broken_and_Working_Code/Assignment10/helloworld.html",
+		"/Users/spenceressey/Downloads/Broken_and_Working_Code/Assignment10/index.html",
+		"/Users/spenceressey/Downloads/Broken_and_Working_Code/WorkingCode/style.css",
+		"/Users/spenceressey/Downloads/Broken_and_Working_Code/BrokenCode/logic.js",
+		"/Users/spenceressey/Downloads/Broken_and_Working_Code/Assignment10/style.css",
+		"/Users/spenceressey/Desktop/My_First_Webpage.html",
+		"/Users/spenceressey/Downloads/Broken_and_Working_Code/newCode/index.html",
+		"/Users/spenceressey/Downloads/Broken_and_Working_Code/BrokenCode/BooTheDog.html",
+		"/Users/spenceressey/Downloads/Broken_and_Working_Code/BrokenCode/style.css",
+		"/Users/spenceressey/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/spenceressey/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/spenceressey/Documents/Sublime/Koumorijin/src/flexipages/Contact_Record_Page.flexipage",
+		"/Users/spenceressey/Documents/Sublime/Koumorijin/src/classes/Process.cls",
+		"/Users/spenceressey/Documents/Sublime/Koumorijin/src/classes/SlackOpportunityPublisher.cls",
+		"/Users/spenceressey/Library/Application Support/Sublime Text 3/Packages/User/mavensmate.sublime-settings",
+		"/Users/spenceressey/Library/Application Support/Sublime Text 3/Packages/MavensMate/mavensmate.sublime-settings"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MavensMate-OutputPanel":
+	{
+		"height": 154.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pro",
+				"src/classes/Process.cls"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 145.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
